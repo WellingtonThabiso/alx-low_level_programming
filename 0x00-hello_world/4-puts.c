@@ -1,15 +1,12 @@
-#!/bin/bash 
 #include <stdio.h>
 /**
- * main - use the funtion
- *Return: 0 (Successs)
+ * main - entry
+ *
+ * return:  Always  0
  */
+int main(void)
 
-   int main(void)
-{
-
-	
-	puts("\"puts{Programming is like building a multilingual puzzle"}	
-
-return (0);
+{	
+	puts("\"Programming is like building a multilingual puzzle");
+	rerurn (0);
 }
